@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E6E9FB42-999F-4DD3-8AC1-488856353E29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZLWaterFlow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9FDE881387A522D7176323A43EB3DA3AE9282CFF</key>
+		<string>https://github.com/lulu-coder/ZLWaterFlow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZLWaterFlowDemo/ZLWaterFlow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9FDE881387A522D7176323A43EB3DA3AE9282CFF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lulu-coder/ZLWaterFlow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9FDE881387A522D7176323A43EB3DA3AE9282CFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9FDE881387A522D7176323A43EB3DA3AE9282CFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZLWaterFlow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
